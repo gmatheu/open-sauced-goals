@@ -1,7 +1,7 @@
 [
   {
     "full_name": "ibraheemdev/modern-unix",
-    "stargazers_count": 24892,
+    "stargazers_count": 24915,
     "open_issues_count": 82,
     "forks_count": 622
   },
@@ -13,15 +13,15 @@
   },
   {
     "full_name": "jeffreytse/zsh-vi-mode",
-    "stargazers_count": 1579,
+    "stargazers_count": 1587,
     "open_issues_count": 69,
-    "forks_count": 58
+    "forks_count": 59
   },
   {
     "full_name": "freqtrade/freqtrade",
-    "stargazers_count": 19994,
-    "open_issues_count": 62,
-    "forks_count": 4234
+    "stargazers_count": 20023,
+    "open_issues_count": 61,
+    "forks_count": 4245
   },
   {
     "full_name": "greymd/tmux-xpanes",
@@ -31,19 +31,19 @@
   },
   {
     "full_name": "oracle/graal",
-    "stargazers_count": 17894,
-    "open_issues_count": 957,
-    "forks_count": 1439
+    "stargazers_count": 17908,
+    "open_issues_count": 959,
+    "forks_count": 1441
   },
   {
     "full_name": "junegunn/fzf",
-    "stargazers_count": 48470,
-    "open_issues_count": 309,
-    "forks_count": 2067
+    "stargazers_count": 48525,
+    "open_issues_count": 310,
+    "forks_count": 2073
   },
   {
     "full_name": "you-dont-need/You-Dont-Need-Lodash-Underscore",
-    "stargazers_count": 15584,
+    "stargazers_count": 15596,
     "open_issues_count": 48,
     "forks_count": 751
   },
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "yanirs/established-remote",
-    "stargazers_count": 5757,
+    "stargazers_count": 5761,
     "open_issues_count": 2,
-    "forks_count": 490
+    "forks_count": 491
   },
   {
     "full_name": "jenkinsci/jenkins-scripts",
@@ -67,27 +67,27 @@
   },
   {
     "full_name": "samrocketman/jenkins-script-console-scripts",
-    "stargazers_count": 404,
+    "stargazers_count": 405,
     "open_issues_count": 2,
-    "forks_count": 190
+    "forks_count": 191
   },
   {
     "full_name": "iovisor/bpftrace",
-    "stargazers_count": 6129,
-    "open_issues_count": 277,
-    "forks_count": 950
+    "stargazers_count": 6137,
+    "open_issues_count": 276,
+    "forks_count": 953
   },
   {
     "full_name": "k3s-io/k3s",
-    "stargazers_count": 21634,
-    "open_issues_count": 356,
-    "forks_count": 1902
+    "stargazers_count": 21667,
+    "open_issues_count": 342,
+    "forks_count": 1904
   },
   {
     "full_name": "src-d/awesome-machine-learning-on-source-code",
     "stargazers_count": 5709,
     "open_issues_count": 7,
-    "forks_count": 831
+    "forks_count": 830
   },
   {
     "full_name": "yantis/docker-wine",
@@ -109,21 +109,21 @@
   },
   {
     "full_name": "spaceship-prompt/spaceship-prompt",
-    "stargazers_count": 17774,
-    "open_issues_count": 97,
-    "forks_count": 949
+    "stargazers_count": 17785,
+    "open_issues_count": 92,
+    "forks_count": 948
   },
   {
     "full_name": "thingsboard/thingsboard",
-    "stargazers_count": 12728,
-    "open_issues_count": 1328,
-    "forks_count": 4068
+    "stargazers_count": 12750,
+    "open_issues_count": 1332,
+    "forks_count": 4078
   },
   {
     "full_name": "InnerSourceCommons/InnerSourcePatterns",
     "stargazers_count": 636,
-    "open_issues_count": 74,
-    "forks_count": 153
+    "open_issues_count": 81,
+    "forks_count": 154
   },
   {
     "full_name": "cpfair/tapiriik",
@@ -139,13 +139,13 @@
   },
   {
     "full_name": "tmux-plugins/tpm",
-    "stargazers_count": 8679,
-    "open_issues_count": 98,
+    "stargazers_count": 8691,
+    "open_issues_count": 97,
     "forks_count": 326
   },
   {
     "full_name": "SonarSource/sonarlint-intellij",
-    "stargazers_count": 507,
+    "stargazers_count": 509,
     "open_issues_count": 2,
     "forks_count": 141
   },
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "docker/machine",
-    "stargazers_count": 6527,
+    "stargazers_count": 6530,
     "open_issues_count": 1072,
-    "forks_count": 1987
+    "forks_count": 1988
   },
   {
     "full_name": "code-mancers/rbkit",
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "alebcay/awesome-shell",
-    "stargazers_count": 25665,
+    "stargazers_count": 25706,
     "open_issues_count": 85,
     "forks_count": 2198
   },
   {
     "full_name": "GoldenCheetah/GoldenCheetah",
-    "stargazers_count": 1508,
+    "stargazers_count": 1509,
     "open_issues_count": 182,
     "forks_count": 427
   }
