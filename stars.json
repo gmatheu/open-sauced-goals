@@ -8,14 +8,14 @@
   {
     "full_name": "dimo414/bkt",
     "stargazers_count": 176,
-    "open_issues_count": 13,
+    "open_issues_count": 14,
     "forks_count": 11
   },
   {
     "full_name": "echasnovski/mini.nvim",
-    "stargazers_count": 2753,
+    "stargazers_count": 2765,
     "open_issues_count": 15,
-    "forks_count": 109
+    "forks_count": 110
   },
   {
     "full_name": "jay-babu/mason-nvim-dap.nvim",
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "tldr-pages/tldr",
-    "stargazers_count": 45440,
-    "open_issues_count": 183,
-    "forks_count": 3743
+    "stargazers_count": 45464,
+    "open_issues_count": 178,
+    "forks_count": 3746
   },
   {
     "full_name": "kellya/rofi-sound",
@@ -49,69 +49,69 @@
   },
   {
     "full_name": "leo-arch/clifm",
-    "stargazers_count": 1050,
+    "stargazers_count": 1054,
     "open_issues_count": 11,
-    "forks_count": 33
+    "forks_count": 34
   },
   {
     "full_name": "ibraheemdev/modern-unix",
-    "stargazers_count": 27886,
+    "stargazers_count": 27897,
     "open_issues_count": 88,
-    "forks_count": 700
+    "forks_count": 701
   },
   {
     "full_name": "jsbroks/awesome-dataset-tools",
-    "stargazers_count": 740,
+    "stargazers_count": 741,
     "open_issues_count": 4,
     "forks_count": 117
   },
   {
     "full_name": "jeffreytse/zsh-vi-mode",
-    "stargazers_count": 2302,
+    "stargazers_count": 2307,
     "open_issues_count": 78,
     "forks_count": 78
   },
   {
     "full_name": "freqtrade/freqtrade",
-    "stargazers_count": 22950,
+    "stargazers_count": 22970,
     "open_issues_count": 51,
-    "forks_count": 5264
+    "forks_count": 5272
   },
   {
     "full_name": "greymd/tmux-xpanes",
-    "stargazers_count": 1769,
+    "stargazers_count": 1774,
     "open_issues_count": 18,
-    "forks_count": 56
+    "forks_count": 57
   },
   {
     "full_name": "oracle/graal",
-    "stargazers_count": 19018,
-    "open_issues_count": 1032,
-    "forks_count": 1553
+    "stargazers_count": 19039,
+    "open_issues_count": 1033,
+    "forks_count": 1552
   },
   {
     "full_name": "junegunn/fzf",
-    "stargazers_count": 54365,
-    "open_issues_count": 342,
-    "forks_count": 2237
+    "stargazers_count": 54429,
+    "open_issues_count": 340,
+    "forks_count": 2238
   },
   {
     "full_name": "you-dont-need/You-Dont-Need-Lodash-Underscore",
-    "stargazers_count": 17458,
+    "stargazers_count": 17472,
     "open_issues_count": 47,
     "forks_count": 823
   },
   {
     "full_name": "bltavares/actions",
-    "stargazers_count": 122,
+    "stargazers_count": 121,
     "open_issues_count": 9,
     "forks_count": 23
   },
   {
     "full_name": "yanirs/established-remote",
-    "stargazers_count": 6369,
+    "stargazers_count": 6390,
     "open_issues_count": 0,
-    "forks_count": 529
+    "forks_count": 530
   },
   {
     "full_name": "jenkinsci/jenkins-scripts",
@@ -127,21 +127,21 @@
   },
   {
     "full_name": "iovisor/bpftrace",
-    "stargazers_count": 7165,
-    "open_issues_count": 268,
-    "forks_count": 1153
+    "stargazers_count": 7180,
+    "open_issues_count": 269,
+    "forks_count": 1163
   },
   {
     "full_name": "k3s-io/k3s",
-    "stargazers_count": 24472,
-    "open_issues_count": 138,
-    "forks_count": 2118
+    "stargazers_count": 24493,
+    "open_issues_count": 144,
+    "forks_count": 2119
   },
   {
     "full_name": "src-d/awesome-machine-learning-on-source-code",
-    "stargazers_count": 5969,
+    "stargazers_count": 5975,
     "open_issues_count": 7,
-    "forks_count": 829
+    "forks_count": 830
   },
   {
     "full_name": "yantis/docker-wine",
@@ -163,15 +163,15 @@
   },
   {
     "full_name": "spaceship-prompt/spaceship-prompt",
-    "stargazers_count": 18611,
-    "open_issues_count": 116,
-    "forks_count": 968
+    "stargazers_count": 18617,
+    "open_issues_count": 109,
+    "forks_count": 969
   },
   {
     "full_name": "thingsboard/thingsboard",
-    "stargazers_count": 14348,
-    "open_issues_count": 1399,
-    "forks_count": 4514
+    "stargazers_count": 14378,
+    "open_issues_count": 1405,
+    "forks_count": 4517
   },
   {
     "full_name": "InnerSourceCommons/InnerSourcePatterns",
