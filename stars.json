@@ -13,21 +13,21 @@
   },
   {
     "full_name": "echasnovski/mini.nvim",
-    "stargazers_count": 2821,
-    "open_issues_count": 20,
-    "forks_count": 113
+    "stargazers_count": 2831,
+    "open_issues_count": 22,
+    "forks_count": 112
   },
   {
     "full_name": "jay-babu/mason-nvim-dap.nvim",
-    "stargazers_count": 298,
+    "stargazers_count": 299,
     "open_issues_count": 0,
     "forks_count": 30
   },
   {
     "full_name": "tldr-pages/tldr",
-    "stargazers_count": 45934,
-    "open_issues_count": 204,
-    "forks_count": 3799
+    "stargazers_count": 45985,
+    "open_issues_count": 210,
+    "forks_count": 3814
   },
   {
     "full_name": "kellya/rofi-sound",
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "leo-arch/clifm",
-    "stargazers_count": 1064,
-    "open_issues_count": 11,
+    "stargazers_count": 1066,
+    "open_issues_count": 10,
     "forks_count": 36
   },
   {
     "full_name": "ibraheemdev/modern-unix",
-    "stargazers_count": 28139,
-    "open_issues_count": 87,
-    "forks_count": 709
+    "stargazers_count": 28166,
+    "open_issues_count": 88,
+    "forks_count": 710
   },
   {
     "full_name": "jsbroks/awesome-dataset-tools",
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "jeffreytse/zsh-vi-mode",
-    "stargazers_count": 2343,
-    "open_issues_count": 81,
+    "stargazers_count": 2347,
+    "open_issues_count": 83,
     "forks_count": 82
   },
   {
     "full_name": "freqtrade/freqtrade",
-    "stargazers_count": 23077,
+    "stargazers_count": 23100,
     "open_issues_count": 43,
-    "forks_count": 5308
+    "forks_count": 5314
   },
   {
     "full_name": "greymd/tmux-xpanes",
@@ -85,21 +85,21 @@
   },
   {
     "full_name": "oracle/graal",
-    "stargazers_count": 19095,
-    "open_issues_count": 1050,
-    "forks_count": 1558
+    "stargazers_count": 19102,
+    "open_issues_count": 1065,
+    "forks_count": 1561
   },
   {
     "full_name": "junegunn/fzf",
-    "stargazers_count": 54689,
-    "open_issues_count": 353,
+    "stargazers_count": 54747,
+    "open_issues_count": 346,
     "forks_count": 2248
   },
   {
     "full_name": "you-dont-need/You-Dont-Need-Lodash-Underscore",
-    "stargazers_count": 17530,
+    "stargazers_count": 17537,
     "open_issues_count": 46,
-    "forks_count": 824
+    "forks_count": 825
   },
   {
     "full_name": "bltavares/actions",
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "yanirs/established-remote",
-    "stargazers_count": 6423,
+    "stargazers_count": 6426,
     "open_issues_count": 0,
     "forks_count": 529
   },
@@ -127,19 +127,19 @@
   },
   {
     "full_name": "iovisor/bpftrace",
-    "stargazers_count": 7239,
-    "open_issues_count": 264,
-    "forks_count": 1177
+    "stargazers_count": 7250,
+    "open_issues_count": 267,
+    "forks_count": 1179
   },
   {
     "full_name": "k3s-io/k3s",
-    "stargazers_count": 24633,
-    "open_issues_count": 159,
-    "forks_count": 2130
+    "stargazers_count": 24697,
+    "open_issues_count": 169,
+    "forks_count": 2131
   },
   {
     "full_name": "src-d/awesome-machine-learning-on-source-code",
-    "stargazers_count": 5982,
+    "stargazers_count": 5983,
     "open_issues_count": 7,
     "forks_count": 830
   },
@@ -159,24 +159,24 @@
     "full_name": "alturkovic/distributed-lock",
     "stargazers_count": 247,
     "open_issues_count": 1,
-    "forks_count": 81
+    "forks_count": 82
   },
   {
     "full_name": "spaceship-prompt/spaceship-prompt",
-    "stargazers_count": 18669,
-    "open_issues_count": 115,
-    "forks_count": 976
+    "stargazers_count": 18674,
+    "open_issues_count": 114,
+    "forks_count": 975
   },
   {
     "full_name": "thingsboard/thingsboard",
-    "stargazers_count": 14458,
-    "open_issues_count": 1447,
-    "forks_count": 4535
+    "stargazers_count": 14472,
+    "open_issues_count": 1449,
+    "forks_count": 4540
   },
   {
     "full_name": "InnerSourceCommons/InnerSourcePatterns",
-    "stargazers_count": 694,
-    "open_issues_count": 92,
+    "stargazers_count": 696,
+    "open_issues_count": 93,
     "forks_count": 171
   }
 ]
