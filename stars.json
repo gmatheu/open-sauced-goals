@@ -7,27 +7,27 @@
   },
   {
     "full_name": "dimo414/bkt",
-    "stargazers_count": 182,
+    "stargazers_count": 183,
     "open_issues_count": 17,
     "forks_count": 13
   },
   {
     "full_name": "echasnovski/mini.nvim",
-    "stargazers_count": 3060,
-    "open_issues_count": 13,
+    "stargazers_count": 3075,
+    "open_issues_count": 15,
     "forks_count": 117
   },
   {
     "full_name": "jay-babu/mason-nvim-dap.nvim",
-    "stargazers_count": 326,
+    "stargazers_count": 327,
     "open_issues_count": 1,
-    "forks_count": 33
+    "forks_count": 32
   },
   {
     "full_name": "tldr-pages/tldr",
-    "stargazers_count": 46521,
-    "open_issues_count": 166,
-    "forks_count": 3895
+    "stargazers_count": 46547,
+    "open_issues_count": 151,
+    "forks_count": 3899
   },
   {
     "full_name": "kellya/rofi-sound",
@@ -44,60 +44,60 @@
   {
     "full_name": "dvmarinoff/Flux",
     "stargazers_count": 352,
-    "open_issues_count": 43,
+    "open_issues_count": 41,
     "forks_count": 71
   },
   {
     "full_name": "leo-arch/clifm",
-    "stargazers_count": 1082,
+    "stargazers_count": 1083,
     "open_issues_count": 11,
     "forks_count": 36
   },
   {
     "full_name": "ibraheemdev/modern-unix",
-    "stargazers_count": 28604,
+    "stargazers_count": 28627,
     "open_issues_count": 90,
-    "forks_count": 720
+    "forks_count": 721
   },
   {
     "full_name": "jsbroks/awesome-dataset-tools",
-    "stargazers_count": 755,
+    "stargazers_count": 756,
     "open_issues_count": 4,
     "forks_count": 118
   },
   {
     "full_name": "jeffreytse/zsh-vi-mode",
-    "stargazers_count": 2446,
+    "stargazers_count": 2450,
     "open_issues_count": 83,
     "forks_count": 86
   },
   {
     "full_name": "freqtrade/freqtrade",
-    "stargazers_count": 23526,
-    "open_issues_count": 48,
-    "forks_count": 5439
+    "stargazers_count": 23549,
+    "open_issues_count": 49,
+    "forks_count": 5445
   },
   {
     "full_name": "greymd/tmux-xpanes",
-    "stargazers_count": 1797,
+    "stargazers_count": 1800,
     "open_issues_count": 19,
     "forks_count": 57
   },
   {
     "full_name": "oracle/graal",
-    "stargazers_count": 19255,
-    "open_issues_count": 1014,
-    "forks_count": 1574
+    "stargazers_count": 19264,
+    "open_issues_count": 1004,
+    "forks_count": 1578
   },
   {
     "full_name": "junegunn/fzf",
-    "stargazers_count": 55643,
-    "open_issues_count": 352,
+    "stargazers_count": 55740,
+    "open_issues_count": 355,
     "forks_count": 2272
   },
   {
     "full_name": "you-dont-need/You-Dont-Need-Lodash-Underscore",
-    "stargazers_count": 17633,
+    "stargazers_count": 17635,
     "open_issues_count": 46,
     "forks_count": 826
   },
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "yanirs/established-remote",
-    "stargazers_count": 6472,
+    "stargazers_count": 6481,
     "open_issues_count": 0,
-    "forks_count": 532
+    "forks_count": 531
   },
   {
     "full_name": "jenkinsci/jenkins-scripts",
@@ -127,19 +127,19 @@
   },
   {
     "full_name": "iovisor/bpftrace",
-    "stargazers_count": 7412,
-    "open_issues_count": 258,
-    "forks_count": 1198
+    "stargazers_count": 7425,
+    "open_issues_count": 263,
+    "forks_count": 1199
   },
   {
     "full_name": "k3s-io/k3s",
-    "stargazers_count": 25068,
-    "open_issues_count": 174,
+    "stargazers_count": 25095,
+    "open_issues_count": 163,
     "forks_count": 2160
   },
   {
     "full_name": "src-d/awesome-machine-learning-on-source-code",
-    "stargazers_count": 5992,
+    "stargazers_count": 5996,
     "open_issues_count": 7,
     "forks_count": 836
   },
@@ -158,25 +158,25 @@
   {
     "full_name": "alturkovic/distributed-lock",
     "stargazers_count": 250,
-    "open_issues_count": 2,
-    "forks_count": 83
+    "open_issues_count": 0,
+    "forks_count": 84
   },
   {
     "full_name": "spaceship-prompt/spaceship-prompt",
-    "stargazers_count": 18769,
+    "stargazers_count": 18775,
     "open_issues_count": 118,
-    "forks_count": 974
+    "forks_count": 975
   },
   {
     "full_name": "thingsboard/thingsboard",
-    "stargazers_count": 14691,
-    "open_issues_count": 1529,
-    "forks_count": 4605
+    "stargazers_count": 14713,
+    "open_issues_count": 1554,
+    "forks_count": 4606
   },
   {
     "full_name": "InnerSourceCommons/InnerSourcePatterns",
     "stargazers_count": 696,
-    "open_issues_count": 98,
+    "open_issues_count": 105,
     "forks_count": 173
   }
 ]
