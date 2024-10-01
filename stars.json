@@ -1,27 +1,27 @@
 [
   {
     "full_name": "yetone/avante.nvim",
-    "stargazers_count": 5558,
-    "open_issues_count": 65,
-    "forks_count": 184
+    "stargazers_count": 5664,
+    "open_issues_count": 61,
+    "forks_count": 192
   },
   {
     "full_name": "zauberzeug/nicegui",
-    "stargazers_count": 8914,
-    "open_issues_count": 55,
-    "forks_count": 540
+    "stargazers_count": 8931,
+    "open_issues_count": 57,
+    "forks_count": 542
   },
   {
     "full_name": "bakks/butterfish",
-    "stargazers_count": 316,
+    "stargazers_count": 321,
     "open_issues_count": 19,
     "forks_count": 29
   },
   {
     "full_name": "Shubhamsaboo/awesome-llm-apps",
-    "stargazers_count": 3117,
+    "stargazers_count": 3145,
     "open_issues_count": 0,
-    "forks_count": 295
+    "forks_count": 300
   },
   {
     "full_name": "devforth/OnLogs",
@@ -31,45 +31,45 @@
   },
   {
     "full_name": "jackMort/ChatGPT.nvim",
-    "stargazers_count": 3695,
+    "stargazers_count": 3706,
     "open_issues_count": 111,
     "forks_count": 310
   },
   {
     "full_name": "roboflow/supervision",
-    "stargazers_count": 22353,
+    "stargazers_count": 22687,
     "open_issues_count": 103,
-    "forks_count": 1670
+    "forks_count": 1689
   },
   {
     "full_name": "darrenburns/elia",
-    "stargazers_count": 1765,
+    "stargazers_count": 1777,
     "open_issues_count": 11,
     "forks_count": 115
   },
   {
     "full_name": "Genivia/ugrep",
-    "stargazers_count": 2605,
+    "stargazers_count": 2604,
     "open_issues_count": 6,
     "forks_count": 110
   },
   {
     "full_name": "rockerBOO/awesome-neovim",
-    "stargazers_count": 15646,
+    "stargazers_count": 15693,
     "open_issues_count": 12,
-    "forks_count": 708
+    "forks_count": 707
   },
   {
     "full_name": "kardolus/chatgpt-cli",
-    "stargazers_count": 472,
-    "open_issues_count": 3,
+    "stargazers_count": 495,
+    "open_issues_count": 8,
     "forks_count": 34
   },
   {
     "full_name": "llmware-ai/llmware",
-    "stargazers_count": 4574,
+    "stargazers_count": 4599,
     "open_issues_count": 41,
-    "forks_count": 823
+    "forks_count": 830
   },
   {
     "full_name": "t1gu1/astrovim-config",
@@ -80,26 +80,26 @@
   {
     "full_name": "dimo414/bkt",
     "stargazers_count": 240,
-    "open_issues_count": 10,
+    "open_issues_count": 9,
     "forks_count": 13
   },
   {
     "full_name": "echasnovski/mini.nvim",
-    "stargazers_count": 4933,
-    "open_issues_count": 34,
+    "stargazers_count": 4966,
+    "open_issues_count": 31,
     "forks_count": 184
   },
   {
     "full_name": "jay-babu/mason-nvim-dap.nvim",
-    "stargazers_count": 531,
+    "stargazers_count": 532,
     "open_issues_count": 3,
     "forks_count": 37
   },
   {
     "full_name": "tldr-pages/tldr",
-    "stargazers_count": 50562,
-    "open_issues_count": 235,
-    "forks_count": 4129
+    "stargazers_count": 50608,
+    "open_issues_count": 221,
+    "forks_count": 4137
   },
   {
     "full_name": "kellya/rofi-sound",
@@ -115,19 +115,19 @@
   },
   {
     "full_name": "dvmarinoff/Flux",
-    "stargazers_count": 513,
+    "stargazers_count": 518,
     "open_issues_count": 46,
-    "forks_count": 87
+    "forks_count": 90
   },
   {
     "full_name": "leo-arch/clifm",
-    "stargazers_count": 1332,
+    "stargazers_count": 1333,
     "open_issues_count": 18,
     "forks_count": 40
   },
   {
     "full_name": "ibraheemdev/modern-unix",
-    "stargazers_count": 30689,
+    "stargazers_count": 30701,
     "open_issues_count": 65,
     "forks_count": 780
   },
@@ -139,39 +139,39 @@
   },
   {
     "full_name": "jeffreytse/zsh-vi-mode",
-    "stargazers_count": 3105,
+    "stargazers_count": 3114,
     "open_issues_count": 102,
     "forks_count": 108
   },
   {
     "full_name": "freqtrade/freqtrade",
-    "stargazers_count": 28215,
-    "open_issues_count": 49,
-    "forks_count": 6049
+    "stargazers_count": 28253,
+    "open_issues_count": 47,
+    "forks_count": 6060
   },
   {
     "full_name": "greymd/tmux-xpanes",
-    "stargazers_count": 1946,
+    "stargazers_count": 1947,
     "open_issues_count": 19,
     "forks_count": 61
   },
   {
     "full_name": "oracle/graal",
-    "stargazers_count": 20267,
-    "open_issues_count": 748,
-    "forks_count": 1626
+    "stargazers_count": 20275,
+    "open_issues_count": 745,
+    "forks_count": 1627
   },
   {
     "full_name": "junegunn/fzf",
-    "stargazers_count": 64140,
-    "open_issues_count": 296,
-    "forks_count": 2373
+    "stargazers_count": 64204,
+    "open_issues_count": 299,
+    "forks_count": 2374
   },
   {
     "full_name": "you-dont-need/You-Dont-Need-Lodash-Underscore",
-    "stargazers_count": 18729,
+    "stargazers_count": 18732,
     "open_issues_count": 56,
-    "forks_count": 816
+    "forks_count": 815
   },
   {
     "full_name": "bltavares/actions",
