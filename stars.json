@@ -1,15 +1,15 @@
 [
   {
     "full_name": "charmbracelet/crush",
-    "stargazers_count": 16208,
-    "open_issues_count": 319,
-    "forks_count": 960
+    "stargazers_count": 16365,
+    "open_issues_count": 323,
+    "forks_count": 966
   },
   {
     "full_name": "opencode-ai/opencode",
-    "stargazers_count": 9548,
+    "stargazers_count": 9553,
     "open_issues_count": 163,
-    "forks_count": 825
+    "forks_count": 827
   },
   {
     "full_name": "turbot/tailpipe",
@@ -25,26 +25,26 @@
   },
   {
     "full_name": "PacktPublishing/LLM-Engineers-Handbook",
-    "stargazers_count": 4514,
+    "stargazers_count": 4529,
     "open_issues_count": 24,
-    "forks_count": 1050
+    "forks_count": 1054
   },
   {
     "full_name": "pgsty/pigsty",
-    "stargazers_count": 4427,
+    "stargazers_count": 4432,
     "open_issues_count": 27,
     "forks_count": 316
   },
   {
     "full_name": "yetone/avante.nvim",
-    "stargazers_count": 16805,
-    "open_issues_count": 71,
-    "forks_count": 769
+    "stargazers_count": 16866,
+    "open_issues_count": 73,
+    "forks_count": 772
   },
   {
     "full_name": "zauberzeug/nicegui",
-    "stargazers_count": 14957,
-    "open_issues_count": 90,
+    "stargazers_count": 14972,
+    "open_issues_count": 87,
     "forks_count": 892
   },
   {
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "Shubhamsaboo/awesome-llm-apps",
-    "stargazers_count": 83784,
+    "stargazers_count": 84098,
     "open_issues_count": 5,
-    "forks_count": 11884
+    "forks_count": 11948
   },
   {
     "full_name": "devforth/OnLogs",
@@ -67,44 +67,44 @@
   },
   {
     "full_name": "jackMort/ChatGPT.nvim",
-    "stargazers_count": 4007,
+    "stargazers_count": 4006,
     "open_issues_count": 112,
     "forks_count": 337
   },
   {
     "full_name": "roboflow/supervision",
-    "stargazers_count": 36194,
-    "open_issues_count": 161,
-    "forks_count": 3057
+    "stargazers_count": 36215,
+    "open_issues_count": 160,
+    "forks_count": 3059
   },
   {
     "full_name": "darrenburns/elia",
-    "stargazers_count": 2397,
+    "stargazers_count": 2401,
     "open_issues_count": 21,
-    "forks_count": 151
+    "forks_count": 152
   },
   {
     "full_name": "Genivia/ugrep",
-    "stargazers_count": 3014,
+    "stargazers_count": 3016,
     "open_issues_count": 23,
     "forks_count": 128
   },
   {
     "full_name": "rockerBOO/awesome-neovim",
-    "stargazers_count": 19743,
+    "stargazers_count": 19768,
     "open_issues_count": 13,
-    "forks_count": 917
+    "forks_count": 919
   },
   {
     "full_name": "kardolus/chatgpt-cli",
-    "stargazers_count": 854,
+    "stargazers_count": 855,
     "open_issues_count": 2,
     "forks_count": 51
   },
   {
     "full_name": "llmware-ai/llmware",
-    "stargazers_count": 14459,
-    "open_issues_count": 79,
+    "stargazers_count": 14463,
+    "open_issues_count": 80,
     "forks_count": 2974
   },
   {
@@ -121,8 +121,8 @@
   },
   {
     "full_name": "nvim-mini/mini.nvim",
-    "stargazers_count": 8488,
-    "open_issues_count": 36,
+    "stargazers_count": 8500,
+    "open_issues_count": 33,
     "forks_count": 286
   },
   {
@@ -133,8 +133,8 @@
   },
   {
     "full_name": "tldr-pages/tldr",
-    "stargazers_count": 60553,
-    "open_issues_count": 215,
+    "stargazers_count": 60587,
+    "open_issues_count": 204,
     "forks_count": 4969
   },
   {
@@ -151,19 +151,19 @@
   },
   {
     "full_name": "dvmarinoff/Auuki",
-    "stargazers_count": 806,
+    "stargazers_count": 807,
     "open_issues_count": 47,
     "forks_count": 129
   },
   {
     "full_name": "leo-arch/clifm",
-    "stargazers_count": 1514,
+    "stargazers_count": 1519,
     "open_issues_count": 21,
     "forks_count": 45
   },
   {
     "full_name": "ibraheemdev/modern-unix",
-    "stargazers_count": 32664,
+    "stargazers_count": 32670,
     "open_issues_count": 65,
     "forks_count": 819
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "jeffreytse/zsh-vi-mode",
-    "stargazers_count": 4124,
+    "stargazers_count": 4126,
     "open_issues_count": 118,
-    "forks_count": 133
+    "forks_count": 135
   }
 ]
