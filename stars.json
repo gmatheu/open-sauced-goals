@@ -1,50 +1,50 @@
 [
   {
     "full_name": "charmbracelet/crush",
-    "stargazers_count": 18917,
-    "open_issues_count": 391,
-    "forks_count": 1156
+    "stargazers_count": 19159,
+    "open_issues_count": 402,
+    "forks_count": 1169
   },
   {
     "full_name": "opencode-ai/opencode",
-    "stargazers_count": 10603,
+    "stargazers_count": 10681,
     "open_issues_count": 161,
-    "forks_count": 964
+    "forks_count": 977
   },
   {
     "full_name": "turbot/tailpipe",
-    "stargazers_count": 531,
+    "stargazers_count": 533,
     "open_issues_count": 35,
     "forks_count": 13
   },
   {
     "full_name": "meznaric/key-analyzer.nvim",
-    "stargazers_count": 246,
+    "stargazers_count": 247,
     "open_issues_count": 4,
     "forks_count": 7
   },
   {
     "full_name": "PacktPublishing/LLM-Engineers-Handbook",
-    "stargazers_count": 4680,
+    "stargazers_count": 4693,
     "open_issues_count": 27,
-    "forks_count": 1109
+    "forks_count": 1115
   },
   {
     "full_name": "pgsty/pigsty",
-    "stargazers_count": 4530,
-    "open_issues_count": 27,
-    "forks_count": 322
+    "stargazers_count": 4561,
+    "open_issues_count": 26,
+    "forks_count": 323
   },
   {
     "full_name": "yetone/avante.nvim",
-    "stargazers_count": 17228,
-    "open_issues_count": 67,
-    "forks_count": 791
+    "stargazers_count": 17256,
+    "open_issues_count": 74,
+    "forks_count": 792
   },
   {
     "full_name": "zauberzeug/nicegui",
-    "stargazers_count": 15194,
-    "open_issues_count": 57,
+    "stargazers_count": 15213,
+    "open_issues_count": 49,
     "forks_count": 902
   },
   {
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "Shubhamsaboo/awesome-llm-apps",
-    "stargazers_count": 89689,
-    "open_issues_count": 10,
-    "forks_count": 12943
+    "stargazers_count": 90941,
+    "open_issues_count": 9,
+    "forks_count": 13128
   },
   {
     "full_name": "devforth/OnLogs",
@@ -67,45 +67,45 @@
   },
   {
     "full_name": "jackMort/ChatGPT.nvim",
-    "stargazers_count": 4011,
+    "stargazers_count": 4010,
     "open_issues_count": 113,
-    "forks_count": 336
+    "forks_count": 335
   },
   {
     "full_name": "roboflow/supervision",
-    "stargazers_count": 36396,
-    "open_issues_count": 170,
-    "forks_count": 3085
+    "stargazers_count": 36413,
+    "open_issues_count": 165,
+    "forks_count": 3087
   },
   {
     "full_name": "darrenburns/elia",
-    "stargazers_count": 2416,
+    "stargazers_count": 2417,
     "open_issues_count": 21,
     "forks_count": 153
   },
   {
     "full_name": "Genivia/ugrep",
-    "stargazers_count": 3039,
+    "stargazers_count": 3042,
     "open_issues_count": 26,
     "forks_count": 131
   },
   {
     "full_name": "rockerBOO/awesome-neovim",
-    "stargazers_count": 20032,
+    "stargazers_count": 20055,
     "open_issues_count": 6,
-    "forks_count": 933
+    "forks_count": 936
   },
   {
     "full_name": "kardolus/chatgpt-cli",
-    "stargazers_count": 882,
-    "open_issues_count": 7,
+    "stargazers_count": 883,
+    "open_issues_count": 6,
     "forks_count": 57
   },
   {
     "full_name": "llmware-ai/llmware",
-    "stargazers_count": 14458,
+    "stargazers_count": 14470,
     "open_issues_count": 86,
-    "forks_count": 2964
+    "forks_count": 2963
   },
   {
     "full_name": "t1gu1/astrovim-config",
@@ -121,8 +121,8 @@
   },
   {
     "full_name": "nvim-mini/mini.nvim",
-    "stargazers_count": 8661,
-    "open_issues_count": 35,
+    "stargazers_count": 8674,
+    "open_issues_count": 36,
     "forks_count": 293
   },
   {
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "tldr-pages/tldr",
-    "stargazers_count": 60979,
-    "open_issues_count": 227,
-    "forks_count": 4998
+    "stargazers_count": 61021,
+    "open_issues_count": 233,
+    "forks_count": 5059
   },
   {
     "full_name": "kellya/rofi-sound",
@@ -151,19 +151,19 @@
   },
   {
     "full_name": "dvmarinoff/Auuki",
-    "stargazers_count": 832,
-    "open_issues_count": 49,
+    "stargazers_count": 833,
+    "open_issues_count": 50,
     "forks_count": 135
   },
   {
     "full_name": "leo-arch/clifm",
-    "stargazers_count": 1541,
+    "stargazers_count": 1578,
     "open_issues_count": 22,
-    "forks_count": 45
+    "forks_count": 46
   },
   {
     "full_name": "ibraheemdev/modern-unix",
-    "stargazers_count": 32725,
+    "stargazers_count": 32729,
     "open_issues_count": 67,
     "forks_count": 822
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "jeffreytse/zsh-vi-mode",
-    "stargazers_count": 4191,
+    "stargazers_count": 4197,
     "open_issues_count": 118,
-    "forks_count": 139
+    "forks_count": 140
   }
 ]
